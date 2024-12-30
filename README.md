@@ -117,5 +117,6 @@ By following these steps, we successfully enhanced the MuseTalk repository to us
 
 # BY:-
 Mohitha Bandi
-E-mail:- mohitha12026@gmail.com
+
+#E-mail:- mohitha12026@gmail.com
 
