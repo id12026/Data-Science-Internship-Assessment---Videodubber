@@ -120,3 +120,8 @@ Mohitha Bandi
 
 #E-mail:- mohitha12026@gmail.com
 
+Linkedin: www.linkedin.com/in/mohitha-bandi-6b563826b
+
+Kaggle: https://www.kaggle.com/bandimohitha
+
+
