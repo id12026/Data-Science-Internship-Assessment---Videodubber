@@ -115,4 +115,7 @@ By following these steps, we successfully enhanced the MuseTalk repository to us
    python x.py --superres [GFPGAN|CodeFormer] -iv input.mp4 -ia input.mp3 -o output.mp4
    ```
 
+# BY:-
+Mohitha Bandi
+E-mail:- mohitha12026@gmail.com
 
