@@ -1,0 +1,21 @@
+--extra-index-url https://download.pytorch.org/whl/cu118 
+torch==2.5.1
+torchvision==0.20.1 
+torchaudio==2.5.1
+diffusers==0.27.2
+accelerate==0.28.0
+tensorflow==2.18.0
+tensorboard>=2.18,<2.19
+opencv-python==4.9.0.80
+soundfile==0.12.1
+transformers==4.39.2
+
+gdown
+requests
+imageio[ffmpeg]
+
+omegaconf
+ffmpeg-python
+gradio
+spaces
+moviepy
