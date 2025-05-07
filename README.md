@@ -17,6 +17,9 @@ The goal of this task is to enhance the MuseTalk repository to improve the resol
 
 <iframe src="https://drive.google.com/file/d/1e8eOgWfRd4iEC-JO-ffD-mAPLhMuWP3W/preview" width="640" height="480" allow="autoplay"></iframe>
 
+![Demo Video]("C:/Users/Reliance Digital/Downloads/VIDEO.gif")
+
+
 ---
 
 ### Steps Taken
