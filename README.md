@@ -19,6 +19,9 @@ The goal of this task is to enhance the MuseTalk repository to improve the resol
 ---
 <iframe src="https://drive.google.com/file/d/1e8eOgWfRd4iEC-JO-ffD-mAPLhMuWP3W/preview" width="640" height="480" allow="autoplay"></iframe>
 
+[![Watch the video](https://path_to_thumbnail_image)](https://drive.google.com/file/d/1e8eOgWfRd4iEC-JO-ffD-mAPLhMuWP3W/preview)
+
+
 ### Steps Taken
 
 #### 1. Cloning the Repository
