@@ -15,12 +15,9 @@ This project enhances the MuseTalk-generated videos using super-resolution model
 The goal of this task is to enhance the MuseTalk repository to improve the resolution of the generated part of the video frame using super-resolution techniques. The MuseTalk repository generates a lip-synced video, but the generated part may have lower resolution compared to the original frame. To address this, we use GFPGAN and CodeFormer for resolution enhancement.
 
 
-<iframe src="https://drive.google.com/file/d/1e8eOgWfRd4iEC-JO-ffD-mAPLhMuWP3W/preview" width="640" height="480" allow="autoplay"></iframe>
-
-![Demo Video]("C:/Users/Reliance Digital/Downloads/VIDEO.gif")
-
 
 ---
+<iframe src="https://drive.google.com/file/d/1e8eOgWfRd4iEC-JO-ffD-mAPLhMuWP3W/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ### Steps Taken
 
